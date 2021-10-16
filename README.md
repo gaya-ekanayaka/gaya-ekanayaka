@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @gaya-ekanayaka
 - 👀 I’m interested in software/application development.
 - 🌱 I’m currently learning at University of Moratuwa, Sri Lanka as an IT undergraduate.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 gaya-ekanayaka/gaya-ekanayaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
